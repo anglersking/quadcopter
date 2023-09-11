@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=OSC_IN Pin=U?-5
+Removed Pin From Net: NetName=OSC_OUT Pin=U?-6
+Removed Pin From Net: NetName=RST Pin=U?-7
+Removed Pin From Net: NetName=SWDIO Pin=U?-34
+Removed Pin From Net: NetName=SWCLK Pin=U?-37
+Removed Member From Class: ClassName=rotor Member=U?
+Change Component Designator: OldDesignator=STM32F103C8T6 NewDesignator=U?A
+Added Pin To Net: NetName=OSC_IN Pin=U?A-5
+Added Pin To Net: NetName=OSC_OUT Pin=U?A-6
+Added Pin To Net: NetName=RST Pin=U?A-7
+Added Pin To Net: NetName=SWDIO Pin=U?A-34
+Added Pin To Net: NetName=SWCLK Pin=U?A-37
+Added Member To Class: ClassName=rotor Member=Component C? 22pF (220) 5% 50V
+Added Member To Class: ClassName=rotor Member=Component C? 100nF (104) 10% 50V
+Added Member To Class: ClassName=rotor Member=Component C? 10uF (106) 10% 10V
+Added Member To Class: ClassName=rotor Member=Component C? 22pF (220) 5% 50V
+Added Member To Class: ClassName=rotor Member=Component R? 10K¦¸ (1002) ¡À1%
+Added Member To Class: ClassName=rotor Member=Component R? 1M¦¸ (1004) ¡À1%
